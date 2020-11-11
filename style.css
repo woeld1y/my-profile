@@ -6,6 +6,13 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.bth-blue{
+	background-color: #2751AB;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
 .container{
 	width: 1000px;
 	margin: 40px auto;
